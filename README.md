@@ -1,2 +1,2 @@
 # go-rest
-# Example API using Golang Fiber & GORM
+Example API using Golang Fiber & GORM
